@@ -6,7 +6,7 @@ Link lab => [GSP736](https://www.cloudskillsboost.google/course_templates/783/la
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/ExploitOperate/DoTienDung-Google-Cloud-Script/refs/heads/main/Manage%20Kubernetes%20in%20Google%20Cloud/Debugging%20Apps%20on%20Google%20Kubernetes%20Engine/lab736.sh
+curl -LO raw.githubusercontent.com/ExploitOperate/DoTienDung-Google-Cloud-Script/refs/heads/main/Manage%20Kubernetes%20in%20Google%20Cloud/GSP736%20Debugging%20Apps%20on%20Google%20Kubernetes%20Engine/lab736.sh
 
 sudo chmod +x lab736.sh
 
