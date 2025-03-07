@@ -7,7 +7,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/ExploitOperate/DoTienDung-Google-Cloud-Script/main/Managing%20Deployments%20Using%20Kubernetes%20Engine/lab053.sh
+curl -LO raw.githubusercontent.com/ExploitOperate/DoTienDung-Google-Cloud-Script/main/Manage%20Kubernetes%20in%20Google%20Cloud/GSP053%20Managing%20Deployments%20Using%20Kubernetes%20Engine/Managing%20Deployments%20Using%20Kubernetes%20Engine/lab053.sh
 
 sudo chmod +x lab053.sh
 
